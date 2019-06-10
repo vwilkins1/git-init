@@ -1,2 +1,2 @@
-alert("Warning is about to be lit")';
+alert("Warning it's about to be lit")';
 document.write("YEEERT!");
